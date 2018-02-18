@@ -1,0 +1,16 @@
+E:\crypto2\lab2\lab2\lab2\bin\Debug\lab2.exe.config
+E:\crypto2\lab2\lab2\lab2\bin\Debug\lab2.exe
+E:\crypto2\lab2\lab2\lab2\bin\Debug\lab2.pdb
+E:\crypto2\lab2\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+E:\crypto2\lab2\lab2\lab2\obj\Debug\lab2.Menu.resources
+E:\crypto2\lab2\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+E:\crypto2\lab2\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+E:\crypto2\lab2\lab2\lab2\obj\Debug\lab2.exe
+E:\crypto2\lab2\lab2\lab2\obj\Debug\lab2.pdb
+E:\crypto2\lab2\lab2\lab2\obj\Debug\lab2.ProtIn.resources
+E:\crypto2\lab2\lab2\lab2\bin\Debug\myfunc.dll
+E:\crypto2\lab2\lab2\lab2\bin\Debug\myfunc.pdb
+E:\crypto2\lab2\lab2\lab2\obj\Debug\lab2.ProtOut.resources
+E:\crypto2\lab2\lab2\lab2\obj\Debug\lab2.Encrypt.resources
+E:\crypto2\lab2\lab2\lab2\obj\Debug\lab2.Sign.resources
+E:\crypto2\lab2\lab2\lab2\obj\Debug\lab2.GenerateKey.resources
